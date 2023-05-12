@@ -4,6 +4,9 @@
 rm -rf web-development-foundations
 git clone https://github.com/datttrian/web-development-foundations
 cd web-development-foundations
+git checkout develop
+yarn install
+yarn gulp
 ```
 
 
@@ -37,6 +40,7 @@ cd web-development-foundations
 
 * [Journey Around the World](journey-world-color)
 * [Pinpoint E-Commerce](color-for-ui-proj)
+* [Reel Good Reviews](text-design)
 
 ## Making a Website Responsive
 
