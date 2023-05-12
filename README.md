@@ -4,8 +4,8 @@
 rm -rf web-development-foundations
 git clone https://github.com/datttrian/web-development-foundations
 cd web-development-foundations
+git checkout learn
 ```
-
 
 ## Fundamentals of HTML
 
