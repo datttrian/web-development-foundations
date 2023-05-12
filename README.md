@@ -37,6 +37,7 @@ cd web-development-foundations
 
 * [Journey Around the World](journey-world-color)
 * [Pinpoint E-Commerce](color-for-ui-proj)
+* [Reel Good Reviews](text-design)
 
 ## Making a Website Responsive
 
