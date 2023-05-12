@@ -36,6 +36,7 @@ cd web-development-foundations
 ## Fundamentals of Web Design
 
 * [Journey Around the World](journey-world-color)
+* [Pinpoint E-Commerce](color-for-ui-proj)
 
 ## Making a Website Responsive
 
